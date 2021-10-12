@@ -1,6 +1,6 @@
 using System;
 
-namespace SumSquareDifference
+namespace CS6_SumSquareDifference
 {
     internal class Program
     {

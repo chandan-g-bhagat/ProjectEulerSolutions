@@ -1,3 +1,5 @@
+using System;
+
 namespace CS5_SmallestMultiple
 {
     class Program

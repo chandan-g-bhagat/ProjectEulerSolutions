@@ -1,3 +1,5 @@
+using System;
+
 namespace CS4_LargestPalindromeProduct
 {
     class Program

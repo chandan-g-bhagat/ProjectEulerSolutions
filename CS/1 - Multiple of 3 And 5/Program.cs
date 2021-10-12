@@ -1,4 +1,6 @@
-namespace MultipleOf3And5
+using System;
+
+namespace CS1_MultipleOf3And5
 {
     class Program
     {

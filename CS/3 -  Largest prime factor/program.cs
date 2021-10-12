@@ -1,3 +1,5 @@
+using System;
+
 namespace CS3_LargestPrimeFactor
 {
     class Program
